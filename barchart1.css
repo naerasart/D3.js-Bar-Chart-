@@ -1,0 +1,33 @@
+ body {
+     background-color: yellow;
+     display: block;
+     margin-left: 30%;
+     margin-right: 30%;
+     margin-top: 10%;
+     height: 80%;
+ }
+ 
+ svg {
+     background-color: white;
+     padding: 1px
+ }
+ 
+ .bar {
+     background-color: green;
+     fill: green;
+ }
+ 
+ #tooltip {
+     margin-top: 5px;
+     color: black;
+     font-size: 15px;
+ }
+ 
+ div {
+     font-size: 35px;
+     margin-top: 5%;
+     text-align: center;
+     margin-left: 30%;
+     margin-right: 28%;
+     margin-bottom: 10%;
+ }
