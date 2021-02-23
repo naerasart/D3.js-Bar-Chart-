@@ -1,2 +1,2 @@
-# Data-Visualization-projects-D3.js
+# D3.js Bar Chart
 D3.js projects
